@@ -12,6 +12,7 @@
 ---
 
 ### Recent Projects
+- **ClassClarity**: ClassClairty is a data-driven platform designed to provide actionable insights for educators and institutions, helping optimize learning outcomes and operational efficiency. [Visit ClassClarity](https://classclarity.netlify.app/)
 - **Sparkwell**: A self-care app leveraging the Spotify API for mood-based playlists, featuring a journal and water tracker. [Visit Sparkwell](https://sparkwell.netlify.app)
 - **BrainFlix**: A multi-page React application showcasing video details dynamically with mock API integration.
 - **Weather Pop**: A hackathon project delivering travel inspiration using real-time weather data and city imagery.
