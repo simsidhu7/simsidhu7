@@ -1,7 +1,7 @@
 ## Hi, I'm Simmy! Nice to meet you! 👋
 
 ### About Me
-- 🔭 I recently earned my **diploma in Software Engineering**, where I honed my skills in **JavaScript**, **React**, **Node.js**, and **Express**, and I’m passionate about applying these skills to solve real-world problems.  
+- 🔭 I have a **Bachelor and Master of Engineering, and more recently a diploma in Software Engineering**, where I honed my skills in **JavaScript**, **React**, **Node.js**, and **Express**, and I’m passionate about applying these skills to solve real-world problems.  
 - 💼 My professional background spans **biomedical engineering**, and **data analytics**, with over 5 years of experience in **engineering** and **project management**.  
 - 👯 I’m looking to collaborate on projects that combine **software engineering** and **healthcare innovation**.  
 - 💬 Ask me about **engineering leadership**, **ML in healthcare**, **Toastmasters**, or my **Sparkwell app**, which integrates the Spotify API to create a mood-based self-care experience.  
